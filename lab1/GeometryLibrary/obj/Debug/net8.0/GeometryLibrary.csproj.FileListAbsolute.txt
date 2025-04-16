@@ -1,0 +1,11 @@
+C:\Users\matsi\source\repos\lab1\GeometryLibrary\bin\Debug\net8.0\GeometryLibrary.deps.json
+C:\Users\matsi\source\repos\lab1\GeometryLibrary\bin\Debug\net8.0\GeometryLibrary.dll
+C:\Users\matsi\source\repos\lab1\GeometryLibrary\bin\Debug\net8.0\GeometryLibrary.pdb
+C:\Users\matsi\source\repos\lab1\GeometryLibrary\obj\Debug\net8.0\GeometryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matsi\source\repos\lab1\GeometryLibrary\obj\Debug\net8.0\GeometryLibrary.AssemblyInfoInputs.cache
+C:\Users\matsi\source\repos\lab1\GeometryLibrary\obj\Debug\net8.0\GeometryLibrary.AssemblyInfo.cs
+C:\Users\matsi\source\repos\lab1\GeometryLibrary\obj\Debug\net8.0\GeometryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\matsi\source\repos\lab1\GeometryLibrary\obj\Debug\net8.0\GeometryLibrary.dll
+C:\Users\matsi\source\repos\lab1\GeometryLibrary\obj\Debug\net8.0\refint\GeometryLibrary.dll
+C:\Users\matsi\source\repos\lab1\GeometryLibrary\obj\Debug\net8.0\GeometryLibrary.pdb
+C:\Users\matsi\source\repos\lab1\GeometryLibrary\obj\Debug\net8.0\ref\GeometryLibrary.dll
